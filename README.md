@@ -4,5 +4,5 @@
 
 # iphone利用快捷指令
 端口网址根据实际设置
-![step1](https://i.loli.net/2020/03/25/V8RY1gsWc24rdDN.png)
-![step2](https://i.loli.net/2020/03/25/fPlYng58ZodCQur.png)
+![step1](https://github.com/bricdu/iphone_easy_copy/blob/master/pic/1.png)
+![step2](https://github.com/bricdu/iphone_easy_copy/blob/master/pic/2.png)
